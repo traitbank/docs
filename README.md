@@ -1,6 +1,8 @@
 ---
 ---
 
+:warning: Work In Progress
+
 TraitBank provides access to traits (e.g., bodysize, lifespan) of organisms.
 
 TraitBank consist of roughly five kinds of things: traits, terms, taxa, scientiic works and resources. Traits describe terms and their values associated with specific taxa as stored in digital references and described in scientific works.
