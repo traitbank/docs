@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# tracking ProPollSoil Data Management Plan
+# tracking TraitBank related
 #
 
 latest() {
